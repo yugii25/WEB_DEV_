@@ -1,0 +1,12 @@
+table{
+    border: 2px solid black;
+    color:cyan;
+    background-color: cadetblue;
+}
+td{
+    border:2px solid black;
+    border-radius: 2px;
+}
+caption{
+    background-color: purple;
+}
